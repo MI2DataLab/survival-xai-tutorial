@@ -1,7 +1,7 @@
 # Dancing with censored data: How to survive with explainable survival analysis?
 **Tutorial @ ML in PL Conference 2023**
 
-Mateusz Krzyziński, Mikołaj Spytek (**MI2.AI**)
+Mateusz Krzyziński, Mikołaj Spytek ([**MI2.AI**](https://www.mi2.ai))
 
 ## Description
 As machine learning in survival analysis is gaining popularity, it is becoming crucial for ML practitioners to understand the unique aspects of this type of modeling and effectively interpret survival models.
